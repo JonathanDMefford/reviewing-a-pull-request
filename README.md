@@ -1,4 +1,4 @@
-## Welcome to awesome game of Tetris
+## The Game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
